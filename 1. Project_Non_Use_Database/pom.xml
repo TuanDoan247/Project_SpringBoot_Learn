@@ -32,20 +32,6 @@
 			<scope>test</scope>
 		</dependency>
 
-		<!--libraries help can interative Hibernate and MySQL -->
-
-		<!--First, Spring Boot Starter Data JPA-->
-		<dependency>
-			<groupId>org.springframework.boot</groupId>
-			<artifactId>spring-boot-starter-data-jpa</artifactId>
-		</dependency>
-
-		<!--Second, MySQL Connector Java-->
-		<dependency>
-			<groupId>mysql</groupId>
-			<artifactId>mysql-connector-java</artifactId>
-			<scope>runtime</scope>
-		</dependency>
 	</dependencies>
 
 	<build>
