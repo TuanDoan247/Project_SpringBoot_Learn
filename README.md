@@ -5,6 +5,3 @@
 
 <h3> 2.Project_Connect_Use_Database </h3>
 <p> This project tutorial connect database with restful api jpa hibernate mysql</p>
-
-<h3> 3.Project_Use_AngularJS </h3>
-<p> This project use AngularJs, tutorial thymeleaf, work with page</p>
